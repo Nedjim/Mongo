@@ -1,0 +1,24 @@
+html {
+    font-size: 16px;
+}
+
+#content {
+    margin-top: 2rem;
+    form {
+        margin: 0 auto;
+        padding: 1rem;
+        width: 15rem;
+        input {
+            width: 100%;
+            display: block;
+            margin-top: 1rem;
+            text-align: center;
+            height: 3vh;
+        }
+         input[type='submit']{
+            margin: 0 auto;
+            margin-top: 1rem;
+            width: 4rem;
+        }
+    }
+}

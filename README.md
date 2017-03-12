@@ -7,6 +7,7 @@
 - Webpack
 - MongoDB
 - Mongoose
+- Material UI
 - Sass
 - Heroku
 

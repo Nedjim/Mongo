@@ -1,3 +1,14 @@
 body {
-    background: #880E4F;
+    background: #FAFAFA;
+}
+
+form {
+    background: #616161;
+    input {
+        border: none;
+        font-size: 0.8rem;
+    }
+    input[type='submit']{
+        background: white;
+    }
 }
